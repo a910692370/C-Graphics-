@@ -1,0 +1,8 @@
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\bin\Debug\Graphics绘制验证码.exe.config
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\bin\Debug\Graphics绘制验证码.exe
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\bin\Debug\Graphics绘制验证码.pdb
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\obj\Debug\Graphics绘制验证码.Form1.resources
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\obj\Debug\Graphics绘制验证码.Properties.Resources.resources
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\obj\Debug\Graphics绘制验证码.csproj.GenerateResource.Cache
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\obj\Debug\Graphics绘制验证码.exe
+F:\网易云课堂\零基础学C#\程序\零基础学C#(二)\Graphics绘制验证码\Graphics绘制验证码\obj\Debug\Graphics绘制验证码.pdb
